@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7205164-6392-4BBF-A1FF-9D9E2013D85B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XXDuckDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5671D0D-C442-47C9-AB40-38A8E71B1471</key>
+		<string>https://github.com/sunnyxx/XXDuckDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XXDuckDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5671D0D-C442-47C9-AB40-38A8E71B1471</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunnyxx/XXDuckDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5671D0D-C442-47C9-AB40-38A8E71B1471</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5671D0D-C442-47C9-AB40-38A8E71B1471</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XXDuckDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
