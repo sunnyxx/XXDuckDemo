@@ -39,8 +39,6 @@
 		480DA56619AE0E7700E4D1EA /* XXDIProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXDIProxy.m; sourceTree = "<group>"; };
 		480DA56719AE0E7700E4D1EA /* XXDuckEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXDuckEntity.h; sourceTree = "<group>"; };
 		480DA56819AE0E7700E4D1EA /* XXDuckEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXDuckEntity.m; sourceTree = "<group>"; };
-		480DA56D19AE0EF200E4D1EA /* XXUserEntity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = XXUserEntity.h; path = ../../../Documents/XXUserEntity.h; sourceTree = "<group>"; };
-		480DA56E19AE0F8800E4D1EA /* XXTestDIProtocolsAndImps.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = XXTestDIProtocolsAndImps.h; path = ../../../Documents/XXTestDIProtocolsAndImps.h; sourceTree = "<group>"; };
 		484CB8B719ADBD1E005BA484 /* XXDuckDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XXDuckDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		484CB8BA19ADBD1E005BA484 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		484CB8BC19ADBD1E005BA484 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,6 +56,8 @@
 		484CB8E119ADBD1E005BA484 /* XXDuckDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XXDuckDemoTests-Info.plist"; sourceTree = "<group>"; };
 		484CB8E319ADBD1E005BA484 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		484CB8E519ADBD1E005BA484 /* XXDuckDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XXDuckDemoTests.m; sourceTree = "<group>"; };
+		48C3D76E19B462A100821A0D /* XXUserEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXUserEntity.h; sourceTree = "<group>"; };
+		48C3D76F19B462A600821A0D /* XXTestDIProtocolsAndImps.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXTestDIProtocolsAndImps.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,9 +87,9 @@
 		480DA56B19AE0E7A00E4D1EA /* DI Proxy */ = {
 			isa = PBXGroup;
 			children = (
+				48C3D76F19B462A600821A0D /* XXTestDIProtocolsAndImps.h */,
 				480DA56519AE0E7700E4D1EA /* XXDIProxy.h */,
 				480DA56619AE0E7700E4D1EA /* XXDIProxy.m */,
-				480DA56E19AE0F8800E4D1EA /* XXTestDIProtocolsAndImps.h */,
 			);
 			name = "DI Proxy";
 			sourceTree = "<group>";
@@ -97,9 +97,9 @@
 		480DA56C19AE0E8200E4D1EA /* Json Entity */ = {
 			isa = PBXGroup;
 			children = (
+				48C3D76E19B462A100821A0D /* XXUserEntity.h */,
 				480DA56719AE0E7700E4D1EA /* XXDuckEntity.h */,
 				480DA56819AE0E7700E4D1EA /* XXDuckEntity.m */,
-				480DA56D19AE0EF200E4D1EA /* XXUserEntity.h */,
 			);
 			name = "Json Entity";
 			sourceTree = "<group>";
